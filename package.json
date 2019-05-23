@@ -1,0 +1,19 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "388d29a1-0528-4462-8b4e-1bca3dd2891c"
+	},
+	"author": "lichin lin",
+	"dependencies": {
+		"@framer/google.material-design": "^1.0.0",
+		"@framer/jurrehoutkamp.custom-scroll": "^1.0.0"
+	}
+}
